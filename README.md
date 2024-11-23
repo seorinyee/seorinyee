@@ -5,5 +5,6 @@
 <img align = "right" src="https://i.pinimg.com/originals/c3/08/fa/c308fa3fcc3a72763595a407a40f4101.gif" width="200" height = "200" alt="mitsuri">
 <div align = "center">
   <a href = "mailto:veronezzea@gmail.com"><img src="https://i.pinimg.com/originals/93/57/f8/9357f86dc2d36ce1221f9fa6ad90b571.jpg" width="20" height = "20" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-maria-pinheiro-veronezze-a44166304/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Y_rO2pZ5AikWvoSTWmD7qJqJ5UJsRo-fVQ&s" width="20" height = "20" target="_blank"></a> 
+  <a href= "https://www.linkedin.com/in/ana-maria-pinheiro-veronezze-a44166304/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Y_rO2pZ5AikWvoSTWmD7qJqJ5UJsRo-fVQ&s" width="20" height = "20" target="_blank"></a> 
+  <a href= "https://www.instagram.com/dako_setup/?locale=de-DE" target="_blank"><img src="https://i.pinimg.com/originals/16/e5/d9/16e5d969448f5418c4cd30c80c04b422.jpg" width="20" height="20" target="_blank"></a>
 </div>
