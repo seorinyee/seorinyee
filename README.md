@@ -6,6 +6,7 @@
 <div align = "center">
   <img src="https://cdn.discordapp.com/attachments/804978370050916362/1255817912761974854/image-6.png?ex=6742f292&is=6741a112&hm=5e0d40a78bce73b5b0df327f1f78ecad8c75d104a42e98024b41443a7807efbf&" width = "250" height = "25" alt="coracoes">
   <img src="https://cdn.discordapp.com/attachments/804978370050916362/1255817912761974854/image-6.png?ex=6742f292&is=6741a112&hm=5e0d40a78bce73b5b0df327f1f78ecad8c75d104a42e98024b41443a7807efbf&" width = "250" height = "25" alt="coracoes">
+  <img src="https://cdn.discordapp.com/attachments/804978370050916362/1255817912761974854/image-6.png?ex=6742f292&is=6741a112&hm=5e0d40a78bce73b5b0df327f1f78ecad8c75d104a42e98024b41443a7807efbf&" width = "250" height = "25" alt="coracoes">
   <a href = "mailto:veronezzea@gmail.com"><img src="https://i.pinimg.com/control2/736x/cf/62/21/cf6221d4a207fcf638536e82b58df913.jpg" width="25" height = "25" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/ana-maria-pinheiro-veronezze-a44166304/" target="_blank"><img src="https://i.pinimg.com/736x/86/98/62/869862914be87365f04b014b3c8931ff.jpg" width="25" height = "25" target="_blank"></a> 
   <a href= "https://www.instagram.com/dako_setup/?locale=de-DE" target="_blank"><img src="https://i.pinimg.com/control2/736x/44/2e/14/442e145bf2d6eba26963fef2e26b08b4.jpg" width="25" height="25" target="_blank"></a>
