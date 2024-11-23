@@ -7,7 +7,7 @@
   <a href = "mailto:veronezzea@gmail.com"><img src="https://i.pinimg.com/control2/736x/cf/62/21/cf6221d4a207fcf638536e82b58df913.jpg" width="25" height = "25" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/ana-maria-pinheiro-veronezze-a44166304/" target="_blank"><img src="https://i.pinimg.com/736x/86/98/62/869862914be87365f04b014b3c8931ff.jpg" width="25" height = "25" target="_blank"></a> 
   <a href= "https://www.instagram.com/dako_setup/?locale=de-DE" target="_blank"><img src="https://i.pinimg.com/control2/736x/44/2e/14/442e145bf2d6eba26963fef2e26b08b4.jpg" width="25" height="25" target="_blank"></a>
-  <img src="https://cdn.discordapp.com/attachments/804978370050916362/1259162765348704318/dividers_20240706110211.png?ex=67434035&is=6741eeb5&hm=aea9f0676af7ce86f926861a3f575051bb2a43560623eb2acca658490031d5ef&" width = "25" height = "250" alt="laços">
+  <img src="https://cdn.discordapp.com/attachments/804978370050916362/1259162765348704318/dividers_20240706110211.png?ex=67434035&is=6741eeb5&hm=aea9f0676af7ce86f926861a3f575051bb2a43560623eb2acca658490031d5ef&" width = "250" height = "25" alt="laços">
 </div>
 
 - ૮  › ༝ ‹  ྀིა ♡ Hello, my name is Ana, I'm 24 years old and currently studying computer science.
