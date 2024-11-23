@@ -2,6 +2,6 @@
 
 <div align = "middle"> <H3> ໒꒰՞ ܸ. .ܸ՞꒱ა Development programmer ♡   ⭒   ࣪  </H3> </div>
 
-<img align = "right" src="https://i.pinimg.com/originals/0e/88/47/0e8847363fbc6d9c2cb1b12c2b50cc3e.gif" width="230" height="130" alt="mitsuri">
+<img align = "right" src="https://i.pinimg.com/originals/0e/88/47/0e8847363fbc6d9c2cb1b12c2b50cc3e.gif" width=100% alt="mitsuri">
 
 teste
