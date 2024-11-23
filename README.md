@@ -8,7 +8,8 @@
   <a href= "https://www.linkedin.com/in/ana-maria-pinheiro-veronezze-a44166304/" target="_blank"><img src="https://i.pinimg.com/736x/86/98/62/869862914be87365f04b014b3c8931ff.jpg" width="25" height = "25" target="_blank"></a> 
   <a href= "https://www.instagram.com/dako_setup/?locale=de-DE" target="_blank"><img src="https://i.pinimg.com/control2/736x/44/2e/14/442e145bf2d6eba26963fef2e26b08b4.jpg" width="25" height="25" target="_blank"></a>
 </div>
--  ♡ ૮  › ༝ ‹  ྀིა  Hello, my name is Ana, I'm 24 years old and currently studying computer science.
+
+- ૮  › ༝ ‹  ྀིა ♡ Hello, my name is Ana, I'm 24 years old and currently studying computer science.
 
 - 𐙚  𓂃   ࣪  I'm still in the process of choosing which area of ​​technology I'm going to choose, but for now I'm enjoying Front-End
 
