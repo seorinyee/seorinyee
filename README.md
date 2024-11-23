@@ -4,6 +4,6 @@
 
 <img align = "right" src="https://i.pinimg.com/originals/c3/08/fa/c308fa3fcc3a72763595a407a40f4101.gif" width="200" height = "200" alt="mitsuri">
 <div align = "center">
-  <a href = "mailto:veronezzea@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://i.pinimg.com/originals/93/57/f8/9357f86dc2d36ce1221f9fa6ad90b571.jpg)" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-maria-pinheiro-veronezze-a44166304/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVEF0RjZZfOLVY00OS7l0L1QNyS83OnRTVA&s" target="_blank"></a> 
+  <a href = "mailto:veronezzea@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://i.pinimg.com/originals/93/57/f8/9357f86dc2d36ce1221f9fa6ad90b571.jpg" width="50" height = "50" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-maria-pinheiro-veronezze-a44166304/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVEF0RjZZfOLVY00OS7l0L1QNyS83OnRTVA&s" width="50" height = "50" target="_blank"></a> 
 </div>
