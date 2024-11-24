@@ -14,7 +14,7 @@
 
 - ૮  › ༝ ‹  ྀིა ♡ Hello, my name is Ana, I'm 24 years old and currently studying computer science.
 
-- 𐙚  𓂃   ࣪  I'm still in the process of choosing which area of ​​technology I'm going to choose, but for now I'm enjoying Front-End
+- 𐙚  𓂃   ࣪  I'm still in the process of choosing which area of ​​technology I'm going to choose, but for now I'm enjoying Front-End.
 
-- ๑   .   .   . I have a cat, a setup to play games and a projector to watch my anime and dramas in my book time.
+- ๑   .   .   . I have a cat, a setup to play games and a projector to watch my anime and dramas in my free time.
 
